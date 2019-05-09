@@ -1,0 +1,18 @@
+Eleanor Carrey
+Diego
+Rishi
+Laga Bilaabo
+Professor Noodles
+
+General: https://codegym.cc/groups/codegym
+Random: https://codegym.cc/groups/random
+Leaderboard: https://codegym.cc/groups/random/leaderboard
+Java Developer: https://codegym.cc/groups/java-developer
+
+
+Books:
+"Kathy Sierra and Bert Bates, Head First Java"
+"Herbert Schildt: Java: The Complete Reference"
+"Bruce Eckel, Thinking in Java"
+"Charles Petzold, Code: The Hidden Language of Computer Hardware and Software"
+"Aditya Bhargava, Grokking Algorithms".
