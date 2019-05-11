@@ -16,3 +16,19 @@ Books:
 "Bruce Eckel, Thinking in Java"
 "Charles Petzold, Code: The Hidden Language of Computer Hardware and Software"
 "Aditya Bhargava, Grokking Algorithms".
+
+
+Reading keyboard input
+'''
+import java.io.*;
+
+
+BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+String name = reader.readLine();
+int num1 = Integer.parseInt(reader.readLine());
+int num2 = Integer.parseInt(reader.readLine());
+
+System.out.println(name + " will receive " + num1 + " in " + num2 + " years.");
+
+'''
