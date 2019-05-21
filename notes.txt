@@ -33,3 +33,21 @@ String name = reader.readLine();
 System.out.println(name + " will receive " + num1 + " in " + num2 + " years.");
 
 '''
+
+iterators through maps
+'''
+public static void main(String[] args)
+{
+    Map<String, String> map = new HashMap<String, String>();
+    map.put("first", "Rain");
+    map.put("second", "In");
+    map.put("third", "Spain");
+
+    for (Map.Entry<String, String> pair : map.entrySet())
+    {
+        String key = pair.getKey();                      // Key
+        String value = pair.getValue();                  // Value
+        System.out.println(key + ":" + value);
+    }
+}
+'''
