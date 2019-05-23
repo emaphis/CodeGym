@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dates/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dates/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dates/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dates/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,6 +34,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/hello/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/dates/example1.java" />
+        <option value="$PROJECT_DIR$/src/dates/Example2.java" />
+        <option value="$PROJECT_DIR$/src/dates/Example1.java" />
+        <option value="$PROJECT_DIR$/src/dates/Example3.java" />
+        <option value="$PROJECT_DIR$/src/dates/Example4.java" />
       </list>
     </option>
   </component>
@@ -41,7 +52,32 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -60,7 +96,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Example4">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dates.Example1" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dates.Example2" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dates.Example3" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dates.Example4" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.HelloWorld" />
       <module name="ScratchPad" />
@@ -76,6 +164,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -101,14 +193,14 @@
   <component name="ToolWindowManager">
     <frame x="677" y="0" width="703" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2534992" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.251944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -116,7 +208,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32972974" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -138,6 +230,34 @@
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#160#161#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dates/Example4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dates/Example3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dates/Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dates/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
