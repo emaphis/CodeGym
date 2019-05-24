@@ -50,4 +50,18 @@ public static void main(String[] args)
         System.out.println(key + ":" + value);
     }
 }
+
+Iterator<Map.Entry<String,Integer>> iterator = map.entrySet().iterator();
+   while (iterator.hasNext()) {
+      Map.Entry<String,Integer> entry = iterator.next();
+         if (entry.getValue() < 500) {
+             iterator.remove();
+         }
+   }
+
+
+   for (Map.Entry<String, Integer> pair : map.entrySet()) {
+       System.out.println(pair.getKey() + " - " + pair.getValue());
+    }
+
 '''
