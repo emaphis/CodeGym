@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
     </list>
     <ignored path="CodeGymTasks.iws" />
@@ -23,17 +22,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0906/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0912/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0906/Conditions.tcs">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0912/Conditions.tcs">
+          <provider selected="true" editor-type-id="EditorTypeId" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
           <provider selected="true" editor-type-id="EditorTypeId" />
         </entry>
       </file>
@@ -64,12 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0714/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0715/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0716/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0717/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0719/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0720/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0721/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0722/Solution.java" />
@@ -115,6 +113,12 @@
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0904/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0905/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0906/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0907/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0908/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0909/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0910/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0911/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0912/Solution.java" />
       </list>
     </option>
   </component>
@@ -640,12 +644,12 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0904.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0910.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task09.task0904.*" />
+          <option name="PATTERN" value="com.codegym.task.task09.task0910.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -654,12 +658,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0906.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0912.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task09.task0906.*" />
+          <option name="PATTERN" value="com.codegym.task.task09.task0912.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -668,12 +672,12 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0901.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0908.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task09.task0901.*" />
+          <option name="PATTERN" value="com.codegym.task.task09.task0908.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -682,12 +686,12 @@
       </method>
     </configuration>
     <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0905.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0911.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task09.task0905.*" />
+          <option name="PATTERN" value="com.codegym.task.task09.task0911.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -696,12 +700,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0902.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task09.task0909.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task09.task0902.*" />
+          <option name="PATTERN" value="com.codegym.task.task09.task0909.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -910,63 +914,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0813/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0813/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0814/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0814/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0815/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0816/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0816/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0815/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0817/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Compiler" />
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0817/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#1263#1279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0818/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task08/task0818/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -1173,18 +1120,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0906/Conditions.tcs">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0906/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0907/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0907/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0908/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0908/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0909/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0909/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0910/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0910/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0911/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0911/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0912/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task09/task0912/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
+      <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
   </component>
 </project>
