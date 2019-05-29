@@ -17,6 +17,8 @@ Books:
 "Charles Petzold, Code: The Hidden Language of Computer Hardware and Software"
 "Aditya Bhargava, Grokking Algorithms".
 
+Internet sites
+https://en.wikipedia.org/wiki/Object-oriented_programming
 
 Reading keyboard input
 '''
