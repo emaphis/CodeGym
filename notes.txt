@@ -65,3 +65,15 @@ Iterator<Map.Entry<String,Integer>> iterator = map.entrySet().iterator();
     }
 
 '''
+
+Literal types:
+"Rain In Spain"  - Literal String
+115 - Literal int.
+0.125 - Literal float
+'\u1234' - Literal char.
+22222L - long
+12.3232 - float
+12.3333333 - double
+'T'  - char
+true,false -  boolean
+
