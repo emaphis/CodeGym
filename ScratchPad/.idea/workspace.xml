@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jack/Jack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/WallBuilders.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../notes.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jack/Jack.java">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/WallBuilders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="265">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -52,6 +50,7 @@
         <option value="$PROJECT_DIR$/src/dates/DateExamples1.java" />
         <option value="$PROJECT_DIR$/src/dates/CalendarExamples.java" />
         <option value="$PROJECT_DIR$/src/jack/Jack.java" />
+        <option value="$PROJECT_DIR$/src/interfaces/WallBuilders.java" />
       </list>
     </option>
   </component>
@@ -67,6 +66,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,13 +95,18 @@
               <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Jack">
+  <component name="RunManager" selected="Application.WallBuilders">
     <configuration name="CalendarExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dates.CalendarExamples" />
       <module name="ScratchPad" />
@@ -174,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.LinkedListExamples" />
+    <configuration name="WallBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.WallBuilders" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WallBuilders" />
         <item itemvalue="Application.Jack" />
         <item itemvalue="Application.CalendarExamples" />
         <item itemvalue="Application.DateExamples1" />
         <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.LinkedListExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -339,6 +344,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/WallBuilders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
