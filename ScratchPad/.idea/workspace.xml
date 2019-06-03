@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inheritance/InstanseOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/AfricanHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/AsianHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/EuropeanHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/NorthAmericanHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Instanceof2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -16,11 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/inheritance/InstanseOf.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -55,13 +69,14 @@
         <option value="$PROJECT_DIR$/src/interfaces/WallBuilders.java" />
         <option value="$PROJECT_DIR$/src/stuff/CurrentDirectory.java" />
         <option value="$PROJECT_DIR$/src/inheritance/InstancseOf.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/Instanceof2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="659" />
     <option name="y" value="7" />
-    <option name="width" value="628" />
+    <option name="width" value="691" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,6 +86,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,7 +109,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -113,13 +128,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InstanseOf">
+  <component name="RunManager" selected="Application.Instanceof2">
     <configuration name="CurrentDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stuff.CurrentDirectory" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Instanceof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Instanceof2" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +181,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jack.Jack" />
-      <module name="ScratchPad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WallBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.WallBuilders" />
       <module name="ScratchPad" />
@@ -181,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Instanceof2" />
         <item itemvalue="Application.InstanseOf" />
         <item itemvalue="Application.InstancseOf" />
         <item itemvalue="Application.CurrentDirectory" />
         <item itemvalue="Application.WallBuilders" />
-        <item itemvalue="Application.Jack" />
       </list>
     </recent_temporary>
   </component>
@@ -208,17 +223,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="659" y="7" width="628" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="659" y="7" width="691" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25880283" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25762713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44186047" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44186047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,7 +365,14 @@
     <entry file="file://$PROJECT_DIR$/src/inheritance/InstanseOf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
