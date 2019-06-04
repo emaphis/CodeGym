@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/AfricanHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/AsianHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/EuropeanHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/Hen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408/NorthAmericanHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Instanceof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409/SuspensionBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409/WaterBridge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -33,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="401">
               <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
@@ -224,6 +221,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="659" y="7" width="691" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25762713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,7 +230,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44186047" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44186047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,7 +369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="401">
           <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
