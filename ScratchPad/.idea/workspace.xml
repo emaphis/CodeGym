@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409/Bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409/SuspensionBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409/WaterBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1519/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1519/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1520/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1520/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1521/Conditions.tcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1521/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1521/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1522/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1522/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1522/Sun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeGymTasks/2.JavaCore/src/com/codegym/task/task15/task1523/SubSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -19,19 +31,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/InstanseOf.java">
+        <entry file="file://$PROJECT_DIR$/src/singleton/SingletonClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="272">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/SingletonEager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/SingletonTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
+        <entry file="file://$PROJECT_DIR$/src/singleton/GFG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -67,13 +101,17 @@
         <option value="$PROJECT_DIR$/src/stuff/CurrentDirectory.java" />
         <option value="$PROJECT_DIR$/src/inheritance/InstancseOf.java" />
         <option value="$PROJECT_DIR$/src/inheritance/Instanceof2.java" />
+        <option value="$PROJECT_DIR$/src/singleton/SingletonClass.java" />
+        <option value="$PROJECT_DIR$/src/singleton/SingletonEager.java" />
+        <option value="$PROJECT_DIR$/src/singleton/SingletonTester.java" />
+        <option value="$PROJECT_DIR$/src/singleton/GFG.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="659" />
-    <option name="y" value="7" />
-    <option name="width" value="691" />
+    <option name="x" value="23" />
+    <option name="y" value="13" />
+    <option name="width" value="630" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,8 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,10 +138,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Instanceof2">
+  <component name="RunManager" selected="Application.SingletonTester">
     <configuration name="CurrentDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stuff.CurrentDirectory" />
       <module name="ScratchPad" />
@@ -178,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WallBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.WallBuilders" />
+    <configuration name="SingletonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.SingletonTester" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces.*" />
+          <option name="PATTERN" value="singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonTester" />
         <item itemvalue="Application.Instanceof2" />
         <item itemvalue="Application.InstanseOf" />
         <item itemvalue="Application.InstancseOf" />
         <item itemvalue="Application.CurrentDirectory" />
-        <item itemvalue="Application.WallBuilders" />
       </list>
     </recent_temporary>
   </component>
@@ -220,10 +264,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="659" y="7" width="691" height="735" extended-state="0" />
+    <frame x="23" y="13" width="630" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25762713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25614035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -360,6 +404,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritance/InstanseOf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -367,10 +418,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Instanceof2.java">
+    <entry file="file://$PROJECT_DIR$/src/singleton/SingletonClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/SingletonEager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/SingletonTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/GFG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
