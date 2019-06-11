@@ -1,6 +1,5 @@
 package threading;
 
-import java.util.TreeMap;
 
 public class TestThread {
 
@@ -32,9 +31,24 @@ public class TestThread {
         thread3.run();
     }
 
+    static void testJoin1() {
+        Printer2 printer1 = new Printer2("Nick");
+        Thread thread1 = new Thread(printer1);
+        thread1.start();
+
+        try {
+            thread1.join();
+        } catch (InterruptedException e) {
+            System.out.println(e.toString());
+        }
+    }
+
+
+
     public static void main(String[] args) {
         //testPrinter1();
         //testPrinter2();
-        testPrinter3();
+        //testPrinter3();
+        testJoin1();
     }
 }
