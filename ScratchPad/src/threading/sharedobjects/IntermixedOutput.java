@@ -47,36 +47,58 @@ public class IntermixedOutput {
             name2 = s;
         }
 
-        public String getName1() {
-            return name1;
+        @Override
+        public void run() {
+            swap();
+            System.out.println("n1: " + name1);
+            System.out.println("n2: " + name2);
         }
+    }
 
-        public String getName2() {
-            return name2;
+    static void testExample2() {
+        MyClass swapper = new MyClass();
+        Thread thread1 = new Thread(swapper);
+        Thread thread2 = new Thread(swapper);
+
+        thread1.start();
+        thread2.start();
+    }
+
+
+    static class MyClass2 implements Runnable  {
+        private String name1 = "Ally";
+        private String name2 = "Lena";
+
+        public void swap() {
+            synchronized (this) {
+                String s = name1;
+                name1 = name2;
+                name2 = s;
+            }
         }
 
         @Override
         public void run() {
             swap();
-            System.out.println(getName1());
-            System.out.println(getName2());
+            System.out.println("n1: " + name1);
+            System.out.println("n2: " + name2);
         }
     }
 
-    static void testExample2() {
-        Thread thread1 = new Thread(new MyClass());
-        Thread thread2 = new Thread(new MyClass());
-        Thread thread3 = new Thread(new MyClass());
+
+    static void testExample3() {
+        MyClass2 swapper = new MyClass2();
+        Thread thread1 = new Thread(swapper);
+        Thread thread2 = new Thread(swapper);
 
         thread1.start();
         thread2.start();
-        thread3.start();
     }
-
 
     public static void main(String[] args) {
         //textExample1();
-        testExample2();
+        //testExample2();
+        testExample3();
     }
 
 }

@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threading/sharedobjects/IntermixedOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threading/sharedobjects/IntermixedOutput.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/threading/ThreadMethods.java">
+        <entry file="file://$PROJECT_DIR$/src/threading/sharedobjects/IntermixedOutput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threading/Clock4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="129">
+              <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/threading/JoinExample.java" />
         <option value="$PROJECT_DIR$/src/threading/Clock4.java" />
         <option value="$PROJECT_DIR$/src/threading/ThreadMethods.java" />
+        <option value="$PROJECT_DIR$/src/threading/sharedobjects/IntermixedOutput.java" />
       </list>
     </option>
   </component>
@@ -98,8 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,10 +107,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="threading" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threading" type="462c0819:PsiDirectoryNode" />
+              <item name="sharedobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,20 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadMethods">
-    <configuration name="ClockManager1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threading.ClockManager1" />
-      <module name="ScratchPad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IntermixedOutput">
     <configuration name="ClockManager2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threading.ClockManager2" />
       <module name="ScratchPad" />
@@ -174,6 +159,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntermixedOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threading.sharedobjects.IntermixedOutput" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threading.sharedobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntermixedOutput" />
         <item itemvalue="Application.ThreadMethods" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ClockManager3" />
         <item itemvalue="Application.ClockManager2" />
-        <item itemvalue="Application.ClockManager1" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +237,14 @@
     <frame x="731" y="2" width="688" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29936305" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3089172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840763" weight="0.44186047" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840763" weight="0.44684386" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,7 +515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/threading/ThreadMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="274">
           <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
         </state>
       </provider>
@@ -525,7 +523,14 @@
     <entry file="file://$PROJECT_DIR$/src/threading/Clock4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threading/sharedobjects/IntermixedOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
         </state>
       </provider>
     </entry>
