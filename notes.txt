@@ -79,3 +79,12 @@ Literal types:
 'T'  - char
 true,false -  boolean
 
+# Multithreading rules:
+Rule 1.
+ Releasing a mutex happens before the same monitor is acquired by another thread.
+Rule 2.
+ The Thread.start() method happens before Thread.run().
+Rule 3.
+ The end of the run() method happens before the return from the join() method.
+Rule 4.
+ Writing to a volatile variable happens before reading from that same variable. 
