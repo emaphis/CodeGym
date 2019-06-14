@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1621/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1621/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1622/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1622/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1623/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1623/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1624/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1624/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1625/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1625/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1626/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1626/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1627/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1627/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1628/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1628/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1629/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1629/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1630/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1630/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1630/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/ImageReaderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/common/BmpReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/common/ImageReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/common/ImageTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/common/JpgReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1631/common/PngReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1632/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1632/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1632/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1633/Conditions.tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/codegym/task/task16/task1633/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CodeGymPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScratchPad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScratchPad/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
     <ignored path="CodeGymTasks.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -777,7 +737,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.2888889" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.2888889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
