@@ -87,4 +87,4 @@ Rule 2.
 Rule 3.
  The end of the run() method happens before the return from the join() method.
 Rule 4.
- Writing to a volatile variable happens before reading from that same variable. 
+ Writing to a volatile variable happens before reading from that same variable.
