@@ -56,6 +56,8 @@ fabric.properties
 
 # Log file
 *.log
+*.log.1
+*.log.2
 
 # BlueJ files
 *.ctxt
