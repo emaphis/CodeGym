@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/threading/volitile/YieldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Example1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeveTimeSheet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LeveTimeSheet.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,23 +16,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threading/volitile/YieldExample.java">
+        <entry file="file://$PROJECT_DIR$/../notes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="422">
+              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/streams/Example1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
               <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../notes.txt">
+        <entry file="file://$PROJECT_DIR$/../LeveTimeSheet.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+            <state relative-caret-position="230">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -93,12 +100,14 @@
         <option value="$PROJECT_DIR$/src/threading/volitile/Clock.java" />
         <option value="$PROJECT_DIR$/src/threading/volitile/YieldExample.java" />
         <option value="$PROJECT_DIR$/../notes.txt" />
+        <option value="$PROJECT_DIR$/src/streams/Example1.java" />
+        <option value="$PROJECT_DIR$/../LeveTimeSheet.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="548" />
-    <option name="width" value="813" />
+    <option name="x" value="763" />
+    <option name="width" value="598" />
     <option name="height" value="716" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,21 +133,7 @@
               <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threading" type="462c0819:PsiDirectoryNode" />
-              <item name="sharedobjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScratchPad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threading" type="462c0819:PsiDirectoryNode" />
-              <item name="volitile" type="462c0819:PsiDirectoryNode" />
+              <item name="streams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notes.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeveTimeSheet.txt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -165,7 +160,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.YieldExample">
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Example1" />
+      <module name="ScratchPad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntermixedOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threading.sharedobjects.IntermixedOutput" />
       <module name="ScratchPad" />
@@ -185,19 +193,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="threading.volitile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threading.Main" />
-      <module name="ScratchPad" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1" />
         <item itemvalue="Application.YieldExample" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.IntermixedOutput" />
         <item itemvalue="Application.ThreadMethods" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -260,10 +255,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="548" y="0" width="813" height="716" extended-state="0" />
+    <frame x="763" y="0" width="598" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3089172" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30810094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -576,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/threading/volitile/YieldExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="232">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
@@ -587,8 +582,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="422">
           <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeveTimeSheet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
