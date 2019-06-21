@@ -1,5 +1,1 @@
-this is text
-this is more text
-this is still more text
-I am done.
-exit
+3 4 4 -3 -3 -4 
