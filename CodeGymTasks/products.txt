@@ -1,6 +1,3 @@
-12345671a23456789b123456789c123456789z1234.5671000
-12345672Bobbits                       0.23    20
-12345673Bobbles (Green)               12.45   102
 19847   Swim trunks, blue             159.00  12  
 198479  Swim trunks, black with printe173.00  17  
-19847983Snowboard jacket with reflecti10173.991234
+198480  Blue dog spray                123.45  110
