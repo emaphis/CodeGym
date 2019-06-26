@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streams/byte/CopyBytes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/bytes/CopyBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/characters/CopyCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/characters/CopyLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/formatting/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/formatting/Root2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/scanning/ScanSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/scanning/ScanXan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/byte/CopyBytes.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +22,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/streams/byte/CopyBytes.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/streams/formatting/Root.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="91">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/streams/formatting/Root2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -45,12 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hello/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/dates/example1.java" />
-        <option value="$PROJECT_DIR$/src/dates/Example2.java" />
-        <option value="$PROJECT_DIR$/src/dates/Example1.java" />
-        <option value="$PROJECT_DIR$/src/dates/Example3.java" />
-        <option value="$PROJECT_DIR$/src/dates/Example4.java" />
         <option value="$PROJECT_DIR$/src/collections/CollectionsExamples.java" />
         <option value="$PROJECT_DIR$/src/collections/LinkedListExamples.java" />
         <option value="$PROJECT_DIR$/src/collections/HashMapExample.java" />
@@ -95,12 +102,19 @@
         <option value="$PROJECT_DIR$/src/adapters/AlphaListManager.java" />
         <option value="$PROJECT_DIR$/src/adapters/ListAdapter.java" />
         <option value="$PROJECT_DIR$/src/streams/byte/CopyBytes.java" />
+        <option value="$PROJECT_DIR$/src/streams/bytes/CopyBytes.java" />
+        <option value="$PROJECT_DIR$/src/streams/characters/CopyCharacters.java" />
+        <option value="$PROJECT_DIR$/src/streams/characters/CopyLines.java" />
+        <option value="$PROJECT_DIR$/src/streams/scanning/ScanXan.java" />
+        <option value="$PROJECT_DIR$/src/streams/scanning/ScanSum.java" />
+        <option value="$PROJECT_DIR$/src/streams/formatting/Root.java" />
+        <option value="$PROJECT_DIR$/src/streams/formatting/Root2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="749" />
-    <option name="width" value="612" />
+    <option name="x" value="719" />
+    <option name="width" value="642" />
     <option name="height" value="716" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -109,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,13 +147,12 @@
               <item name="ScratchPad" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="streams" type="462c0819:PsiDirectoryNode" />
-              <item name="byte" type="462c0819:PsiDirectoryNode" />
+              <item name="formatting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -160,13 +174,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BufferedExample">
-    <configuration name="BufferedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.BufferedExample" />
+  <component name="RunManager" selected="Application.Root2">
+    <configuration name="CopyLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.characters.CopyLines" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="streams.characters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Example1" />
+    <configuration name="Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.formatting.Root" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="streams.formatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntermixedOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threading.sharedobjects.IntermixedOutput" />
+    <configuration name="Root2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.formatting.Root2" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threading.sharedobjects.*" />
+          <option name="PATTERN" value="streams.formatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threading.volitile.Main" />
+    <configuration name="ScanSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.scanning.ScanSum" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threading.volitile.*" />
+          <option name="PATTERN" value="streams.scanning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YieldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threading.volitile.YieldExample" />
+    <configuration name="ScanXan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.scanning.ScanXan" />
       <module name="ScratchPad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threading.volitile.*" />
+          <option name="PATTERN" value="streams.scanning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BufferedExample" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.YieldExample" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.IntermixedOutput" />
+        <item itemvalue="Application.Root2" />
+        <item itemvalue="Application.Root" />
+        <item itemvalue="Application.ScanSum" />
+        <item itemvalue="Application.ScanXan" />
+        <item itemvalue="Application.CopyLines" />
       </list>
     </recent_temporary>
   </component>
@@ -255,17 +269,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="749" y="0" width="612" height="716" extended-state="0" />
+    <frame x="719" y="0" width="642" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.317029" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31099656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840763" weight="0.44596913" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933104" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840763" visible="true" weight="0.44596913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,55 +301,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Check in ScratchPad project" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hello/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dates/Example4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dates/Example3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dates/Example2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dates/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/CollectionsExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/collections/HashMapExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -587,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/streams/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
@@ -686,11 +644,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/streams/byte/CopyBytes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/characters/CopyCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/characters/CopyLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/scanning/ScanSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/scanning/ScanXan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/bytes/CopyBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/formatting/Root.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streams/formatting/Root2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
