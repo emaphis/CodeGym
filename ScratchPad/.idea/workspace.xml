@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streams/bytes/CopyBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/characters/CopyCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/characters/CopyLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/formatting/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/formatting/Root2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/scanning/ScanSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/scanning/ScanXan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/byte/CopyBytes.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -279,7 +267,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32933104" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840763" visible="true" weight="0.44596913" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840763" weight="0.44596913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
