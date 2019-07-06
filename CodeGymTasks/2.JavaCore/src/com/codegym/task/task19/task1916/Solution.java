@@ -20,34 +20,46 @@ public class Solution {
 
         BufferedReader readerFile1 = new BufferedReader(new FileReader(fileName1));
         String line;
-        List<String> list1 = new ArrayList<>();
+        List<String> fileList1 = new ArrayList<>();
         while (readerFile1.ready()) {
             line = readerFile1.readLine();
-            list1.add(line);
+            fileList1.add(line);
         }
         readerFile1.close();
 
         BufferedReader readerFile2 = new BufferedReader(new FileReader(fileName2));
-        List<String> list2 = new ArrayList<>();
+        List<String> fileList2 = new ArrayList<>();
         while (readerFile2.ready()) {
             line = readerFile2.readLine();
-            list2.add(line);
+            fileList2.add(line);
         }
         readerFile2.close();
 
-        int lineCount1 = 0;
-        int lineCount2 = 0;
+        int index1 = 0;
+        int index2 = 0;
 
         // walk both lists
-        while (lineCount1 < list1.size() && lineCount2 < list2.size()) {
-            String line1 = list1.get(lineCount1);
-            String line2 = list2.get(lineCount2);
+        while (index1 < fileList1.size() && index2 < fileList2.size()) {
 
-            if (line1.equals(line2)) {
-                lines.add(new LineItem(Type.SAME, line1));
-                lineCount1++;
-                lineCount2++;
+            if (fileList1.get(index1).equals(fileList2.get(index2))) {
+                lines.add(new LineItem(Type.SAME, fileList1.get(index1)));
+                index1++;
+                index2++;
+            } else if (fileList2.size() > index2 + 1 && fileList2.get(index2 + 1).equals(fileList1.get(index1))) {
+                lines.add(new LineItem(Type.ADDED, fileList2.get(index2)));
+                index2++;
+            } else if (fileList1.size() > index1 + 1 && fileList1.get(index1 + 1).equals(fileList2.get(index2))) {
+                lines.add(new LineItem(Type.REMOVED, fileList1.get(index1)));
+                index1++;
             }
+        }
+
+        // check for one file longer then then other.
+        if (index2 < fileList2.size()) {
+            lines.add(new LineItem(Type.ADDED, fileList2.get(index2)));
+        }
+        if (index1 < fileList1.size()) {
+            lines.add(new LineItem(Type.REMOVED, fileList1.get(index1)));
         }
     }
 
