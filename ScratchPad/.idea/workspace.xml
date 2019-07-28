@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced6d4c-e2da-4abe-87fc-0f2fc3e81aea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistence/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistence/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistence/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +35,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeveTimeSheet.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/persistence" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="persistence" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\src\CodeGym\ScratchPad\src\persistence" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
